@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Portfolio - Elite Developer Edition",
+  "description": "A high-end, interactive developer portfolio featuring GSAP animations, Three.js 3D background, and a Gemini-powered career assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
