@@ -39,7 +39,7 @@ const GeminiAssistant: React.FC = () => {
           <div className="p-6 bg-gradient-to-r from-blue-700 to-blue-600 flex items-center justify-between text-white">
             <div className="flex items-center space-x-3">
               <div className="p-1.5 bg-white/20 rounded-lg">
-                <img src="/assats/logo.png" alt="Logo" className="w-5 h-5 object-contain" />
+                <img src="assats/logo.png" alt="Logo" className="w-5 h-5 object-contain" />
               </div>
               <div>
                 <span className="font-bold text-sm block">Webnixra Concierge</span>
