@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
     <nav className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'py-4 glass' : 'py-8 bg-transparent'}`}>
       <div className="container mx-auto px-6 flex items-center justify-between">
         <a href="#" className="flex items-center space-x-3 text-2xl font-bold tracking-tighter text-white">
-          <img src="/assats/logo.png" alt="Webnixra Logo" className="w-10 h-10 object-contain" />
+          <img src="assats/logo.png" alt="Webnixra Logo" className="w-10 h-10 object-contain" />
           <span className="font-display">Webnixra</span>
         </a>
 
