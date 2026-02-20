@@ -7,7 +7,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: 'Lead Architect & Marketing Head',
     specialty: 'Front-end & WebGL & Motion Design',
     bio: 'Ex-M.E.H. engineer specialized in high-concurrency systems and distributed databases.',
-    imageUrl: 'https://scontent.fdac185-1.fna.fbcdn.net/v/t39.30808-1/495965890_122175980726320300_3963179257449800831_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Pln6zcgX9ncQ7kNvwEwD6JC&_nc_oc=AdklxtaJiSNFWk2ClRiGZgV5oaYeLPcOUJxJLMqxoJfZHmIGFE7GkR5Fxdj0aKrKyqA&_nc_zt=24&_nc_ht=scontent.fdac185-1.fna&_nc_gid=h3514YEXkelNr1HRZ4016w&oh=00_AfvpIxZsyKANk9osfn0N2_RceyTJBFQpKr8nW2Hrzqfa8A&oe=6998F5B8',
+    imageUrl: 'https://fcfqmuluqxqapccffkzj.supabase.co/storage/v1/object/public/products/abit.jpg',
     portfolioUrl: '#',
     github: '#',
     linkedin: '#'
@@ -25,12 +25,12 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     id: 'm3',
-    name: 'Mia Khalifa',
+    name: 'Nuru Mia',
     role: 'AI Research Lead & Lead Designer',
     specialty: 'UI/UX Design',
     bio: 'Award-winning designer merging mathematics with aesthetics to create immersive 3D web experiences.',
-    imageUrl: 'https://imgs.search.brave.com/izSzfwHXonABnKNscvX3us3u0omiJyPnafaxA4EIP1o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zYW50/YWJhbnRhLmNvbS9n/YWxsZXJ5L0dsb2Jh/bCUyMENlbGVicml0/aWVzKEYpL01pYSUy/MEtoYWxpZmEvTWlh/LUtoYWxpZmEtNS12/LmpwZw',
-    portfolioUrl: 'https://en.wikipedia.org/wiki/Mia_Khalifa',
+    imageUrl: 'https://i.pinimg.com/736x/6c/26/51/6c2651d375771b41028e41a4c231519a.jpg',
+    portfolioUrl: '',
     github: '#',
     linkedin: '#'
   }
