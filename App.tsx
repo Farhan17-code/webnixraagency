@@ -280,7 +280,7 @@ const App: React.FC = () => {
       <footer className="py-20 border-t border-white/5">
         <div className="container mx-auto px-6 text-center">
           <div className="flex items-center justify-center space-x-3 text-3xl font-bold tracking-tighter text-white mb-8">
-            <img src="logo.png" alt="Webnixra Logo" className="w-12 h-12 object-contain" />
+            <img src="https://fcfqmuluqxqapccffkzj.supabase.co/storage/v1/object/public/products/logo.png" alt="Webnixra Logo" className="w-12 h-12 object-contain" />
             <span className="font-display">Webnixra</span>
           </div>
           <p className="text-gray-500 text-xs tracking-widest uppercase mb-8">
