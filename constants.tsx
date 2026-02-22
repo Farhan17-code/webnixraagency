@@ -18,7 +18,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: 'Creative Director & Lead Programmer',
     specialty: 'Full Stack & LLMs & Neural Nets',
     bio: 'Pioneering the integration of generative AI into production-ready enterprise applications.',
-    imageUrl: 'https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/F3.jpeg',
+    imageUrl: 'https://fcfqmuluqxqapccffkzj.supabase.co/storage/v1/object/public/products/F3.jpeg',
     portfolioUrl: 'https://www.farhan-islam.org/',
     github: 'https://github.com/creepyphantom11y-gif',
     linkedin: '#'
